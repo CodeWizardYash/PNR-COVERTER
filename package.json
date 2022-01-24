@@ -2,13 +2,12 @@
   "name": "excel-project",
   "version": "1.0.0",
   "description": "",
-  "main":"indexv6.js",
+  "main": "indexv6.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
     "v5": "nodemon indexv5.js",
     "v6": "node indexv6.js"
-
   },
   "author": "",
   "license": "ISC",
